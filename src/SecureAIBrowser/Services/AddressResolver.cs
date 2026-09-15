@@ -2,7 +2,7 @@ namespace SecureAIBrowser.Services;
 
 public static class AddressResolver
 {
-    private const string SearchEndpoint = "https://www.bing.com/search?q=";
+    private const string SearchEndpoint = "https://www.google.com/search?q=";
 
     public static Uri Resolve(string input)
     {

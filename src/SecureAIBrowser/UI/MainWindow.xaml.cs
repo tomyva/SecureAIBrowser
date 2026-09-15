@@ -8,7 +8,7 @@ namespace SecureAIBrowser.UI;
 
 public partial class MainWindow : Window
 {
-    private const string HomeUrl = "https://www.bing.com/";
+    private const string HomeUrl = "https://www.google.com/";
     private readonly BrowserController _browser;
 
     public MainWindow()
